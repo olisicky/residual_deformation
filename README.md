@@ -1,6 +1,14 @@
 # Residual deformation
 Simple GUI to analyze residual deformations from experiments. This is an old project which I used to create GUI by 
 using tkinter.
+
+## To Anička
+* install [anaconda](https://www.anaconda.com) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) with python
+* download zip of this repo (or use git as described bellow)
+* unzip
+* open `cmd` in the folder `residual_deformations` 
+* run `python residual_deformations.py`
+* GUI should appear -> follow `Steps to analyze image` bellow
 ## How to run the program
 * `git clone https://github.com/olisicky/residual_deformation.git`
 * Optional: create new virtual environment
